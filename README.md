@@ -1,4 +1,4 @@
 # demo
 This is Git demo
 <br>
-Author - Sanjana More
+Author - Sanjana S More
